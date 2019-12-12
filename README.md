@@ -14,3 +14,5 @@ To create a new image follow this template example.
 TODO: 
 - Simplify Image wrapping code
 - auto-add bootstrap classes to images eg. class="img-fluid my-auto mx-auto d-block pt-3" 
+
+demo: [here](https://liamfpower.com/bootstrapmodaljquery/)
