@@ -1,0 +1,21 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+}
+
+.imglink {}
+
+.imglink i {
+    position: absolute;
+    top: 85%;
+    margin: 0;
+    margin-left: 5px;
+    text-align: center;
+    padding: 5px;
+    background: black;
+    color: white;
+    opacity: 0.5;
+}
